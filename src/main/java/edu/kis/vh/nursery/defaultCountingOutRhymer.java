@@ -4,8 +4,8 @@ public class defaultCountingOutRhymer {
 
     public static final int EMPTY = -1;
     public static final int DEFAULT = -1;
-    public static final int SIZE = 12;
-    private int[] numbers = new int[SIZE];
+    public static final int MAX_ARRAY_SIZE = 12;
+    private int[] numbers = new int[MAX_ARRAY_SIZE];
 
     public int total = EMPTY;
 
@@ -19,7 +19,7 @@ public class defaultCountingOutRhymer {
     }
 
     public boolean isFull() {
-        return total == SIZE - 1;
+        return total == MAX_ARRAY_SIZE - 1;
     }
 
     protected int peekaboo() {
