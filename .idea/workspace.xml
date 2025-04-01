@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76b8e050-d40c-402d-bac8-27614b69fea1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/FIFORhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/FIFORhymer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/defaultCountingOutRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/defaultCountingOutRhymer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/list/IntLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/list/IntLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <workItem from="1743190467382" duration="2719000" />
       <workItem from="1743201255232" duration="7000" />
       <workItem from="1743374290512" duration="311000" />
-      <workItem from="1743545928611" duration="91000" />
+      <workItem from="1743545928611" duration="450000" />
     </task>
     <servers />
   </component>

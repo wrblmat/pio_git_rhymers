@@ -7,6 +7,10 @@ public class defaultCountingOutRhymer {
     private static final int MAX_ARRAY_SIZE = 12;
     private final int[] numbers = new int[MAX_ARRAY_SIZE];
 
+    public int getTotal() {
+        return total;
+    }
+
     private int total = EMPTY;
 
     public void countIn(int in) {
